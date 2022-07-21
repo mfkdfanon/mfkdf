@@ -1,4 +1,4 @@
-[![MFKDF](./mfkdf/site/logo.png "MFKDF")]
+[![MFKDF](https://raw.githubusercontent.com/mfkdfanon/mfkdf/main/MFKDF/site/logo.png "MFKDF")]
 
 Multi-Factor Key Derivation Function (Anonymized Submission)
 
